@@ -1,9 +1,0 @@
-all: app install
-
-app:  semaphore.c
-	gcc  -o semaphore semaphore.c -lpthread
-
-install:
-	cp semaphore /nfsroot
-
-
