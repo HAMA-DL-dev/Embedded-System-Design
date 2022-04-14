@@ -5,6 +5,8 @@ semester : 4th year 1st semester
 advisor : [Dong-Jin Lim](http://limdj.com/embedded.html) 
 <br>
 my notion page : [Embedded System Design](https://www.notion.so/Embedded-System-Design-f71baffc1fdc4cf4b9a74750de64e80a)
+<br> 
+**❗️ notion page can be locked temporary**
 <br>
 ```
 # Lab : task folder per week
