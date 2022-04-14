@@ -1,1 +1,0 @@
-cmd_/home/pi/work/usonic/usonic_driver.ko := ld -r  -EL  --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/pi/work/usonic/usonic_driver.ko /home/pi/work/usonic/usonic_driver.o /home/pi/work/usonic/usonic_driver.mod.o;  true

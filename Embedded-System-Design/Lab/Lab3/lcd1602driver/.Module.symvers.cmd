@@ -1,1 +1,0 @@
-cmd_/home/pi/work/lcd1602driver/Module.symvers := sed 's/ko$$/o/' /home/pi/work/lcd1602driver/modules.order | scripts/mod/modpost -m -a   -o /home/pi/work/lcd1602driver/Module.symvers -e -i Module.symvers   -T -

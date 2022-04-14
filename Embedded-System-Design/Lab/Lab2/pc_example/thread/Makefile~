@@ -1,9 +1,0 @@
-all: app install
-
-app:	thread.c
-	arm-none-linux-gnueabi-gcc  -o thread thread.c -lpthread
-
-install:
-	cp thread /nfsroot
-
-

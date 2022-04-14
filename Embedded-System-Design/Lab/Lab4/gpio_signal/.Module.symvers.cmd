@@ -1,1 +1,0 @@
-cmd_/home/pi/work/gpio_signal/Module.symvers := sed 's/ko$$/o/' /home/pi/work/gpio_signal/modules.order | scripts/mod/modpost -m -a   -o /home/pi/work/gpio_signal/Module.symvers -e -i Module.symvers   -T -

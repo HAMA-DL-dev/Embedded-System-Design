@@ -1,9 +1,0 @@
-all: app install
-
-app:	mutex.c
-	gcc  -o mutex mutex.c -lpthread
-
-install:
-	cp mutex /nfsroot
-
-
