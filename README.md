@@ -26,3 +26,5 @@ my notion page : [Embedded System Design](https://www.notion.so/Embedded-System-
 - SmarTTY
 ## Description
 See the `README.md` file for each project for more information.
+<br>
+~~물론 나중에 할거임 ㅋㅋㅎㅎㅈㅅ! 일단 자러감!~~
