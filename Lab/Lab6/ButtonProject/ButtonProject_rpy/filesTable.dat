@@ -1,0 +1,11 @@
+I-Logix-RPY-Archive version 8.5.2 * 2030848
+
+- filesTable = { IRPYRawContainer 
+	- size = 4;
+	- value = "ButtonProject.rpy" ""
+	"ButtonProject_rpy/ButtonPkg.sbs" "ButtonPkg"
+	"ButtonProject_rpy/ButtonTest.cmp" "ButtonTest"
+	"ButtonProject_rpy/Default.sbs" "Default"
+	
+}
+
