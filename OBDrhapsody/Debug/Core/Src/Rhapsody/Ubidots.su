@@ -1,0 +1,7 @@
+Ubidots.c:37:6:Ubidots_Init	16	static
+Ubidots.c:49:6:Ubidots_Cleanup	16	static
+Ubidots.c:54:6:Ubidots_WiFi	16	static
+Ubidots.c:61:12:Ubidots_startBehavior	24	static
+Ubidots.c:67:13:initStatechart	16	static
+Ubidots.c:72:13:rootState_entDef	24	static
+Ubidots.c:81:27:rootState_dispatchEvent	24	static
