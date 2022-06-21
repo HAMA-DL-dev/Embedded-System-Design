@@ -1,0 +1,275 @@
+I-Logix-RPY-Archive version 8.5.2 C 2030848
+{ IComponent 
+	- _id = GUID c0051c18-6922-46cd-940e-4e1359510fb9;
+	- _myState = 139264;
+	- _name = "DefaultComponent";
+	- _lastID = 2;
+	- m_buildType = Executable;
+	- m_libraries = "";
+	- m_additionalSources = "";
+	- m_standardHeaders = "";
+	- m_includePath = "";
+	- m_initializationCode = "";
+	- m_folder = { IFolder 
+		- _id = GUID d2bc0cf8-bf06-46e9-9c8f-4c32377fb726;
+		- _myState = 73728;
+		- _name = "Files";
+		- m_path = "";
+		- Elements = { IRPYRawContainer 
+			- size = 0;
+		}
+		- Files = { IRPYRawContainer 
+			- size = 1;
+			- value = 
+			{ IFile 
+				- _id = GUID 909eaef8-830c-4e07-8db5-b568ee1efebc;
+				- _myState = 139264;
+				- _properties = { IPropertyContainer 
+					- Subjects = { IRPYRawContainer 
+						- size = 1;
+						- value = 
+						{ IPropertySubject 
+							- _Name = "CG";
+							- Metaclasses = { IRPYRawContainer 
+								- size = 1;
+								- value = 
+								{ IPropertyMetaclass 
+									- _Name = "File";
+									- Properties = { IRPYRawContainer 
+										- size = 2;
+										- value = 
+										{ IProperty 
+											- _Name = "AddToMakefile";
+											- _Value = "False";
+											- _Type = Bool;
+										}
+										{ IProperty 
+											- _Name = "Generate";
+											- _Value = "False";
+											- _Type = Bool;
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+				- _name = "CANSPI";
+				- m_path = "";
+				- m_type = specFile;
+				- Fragments = { IRPYRawContainer 
+					- size = 0;
+				}
+			}
+		}
+	}
+	- m_configActive = { ICodeGenConfigInfoHandle 
+		- _m2Class = "ICodeGenConfigInfo";
+		- _id = GUID ba5a867c-c8ea-4353-8b34-2ef0ef3d5557;
+	}
+	- Configs = { IRPYRawContainer 
+		- size = 2;
+		- value = 
+		{ ICodeGenConfigInfo 
+			- _id = GUID 6f4c80ce-7139-4126-a379-3769faa8dc2c;
+			- _myState = 8192;
+			- _name = "DefaultConfig";
+			- HyperLinks = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IMHyperLink 
+					- _id = GUID 792954b5-68e7-4194-973d-dc0caae30f8a;
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Makefile";
+					- _linkType = "FREE";
+					- _linkTarget = "C:/Users/HaYeon/IBM/Rational/Rhapsody/7.5.3/Project/PBL/PBL/DefaultComponent/DefaultConfig/DefaultComponent.mak";
+					- isConfigurationFileHyperLink = 1;
+				}
+				{ IMHyperLink 
+					- _id = GUID 6b8f79e2-ec4d-4242-b1d4-0b1f76417e4e;
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Main File";
+					- _linkType = "FREE";
+					- _linkTarget = "C:/Users/HaYeon/IBM/Rational/Rhapsody/7.5.3/Project/PBL/PBL/DefaultComponent/DefaultConfig/MainDefaultComponent";
+					- isConfigurationFileHyperLink = 1;
+				}
+			}
+			- _scopeType = Explicit;
+			- _libraries = "";
+			- _additionalSources = "";
+			- _standardHeaders = "";
+			- _includePath = "";
+			- _targetMain = "";
+			- _instrumentation = None;
+			- _timeModel = RealTime;
+			- m_generateActors = 1;
+			- _statechartImplementation = Flat;
+			- _initializationCode = "";
+			- _checksList = 0 ;
+			- ScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- InitialInstances = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _root = { IFolder 
+				- _id = GUID ce7d0185-b677-4118-b4f7-9250326409fa;
+				- _myState = 8192;
+				- _name = "DefaultConfig";
+				- m_path = "";
+				- Elements = { IRPYRawContainer 
+					- size = 0;
+				}
+				- Files = { IRPYRawContainer 
+					- size = 0;
+				}
+			}
+			- weakCGTime = 1.2.1990::0:0:0;
+			- strongCGTime = 1.2.1990::0:0:0;
+			- AnimScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- m_allInAnimScope = 1;
+		}
+		{ ICodeGenConfigInfo 
+			- _id = GUID ba5a867c-c8ea-4353-8b34-2ef0ef3d5557;
+			- _myState = 8192;
+			- _properties = { IPropertyContainer 
+				- Subjects = { IRPYRawContainer 
+					- size = 1;
+					- value = 
+					{ IPropertySubject 
+						- _Name = "C_CG";
+						- Metaclasses = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IPropertyMetaclass 
+								- _Name = "Configuration";
+								- Properties = { IRPYRawContainer 
+									- size = 1;
+									- value = 
+									{ IProperty 
+										- _Name = "Environment";
+										- _Value = "IDF_Arm_Cortex";
+										- _Type = Enum;
+										- _ExtraTypeInfo = "Microsoft,IDF_Microsoft_NT,IDF_Arm_Cortex";
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+			- _name = "Arm-cortex";
+			- HyperLinks = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IMHyperLink 
+					- _id = GUID ae1d6b8d-01d7-4f8d-bef8-f6c1d1e010ad;
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Makefile";
+					- _linkType = "FREE";
+					- _linkTarget = "C:/Users/HaYeon/IBM/Rational/Rhapsody/7.5.3/Project/PBL/PBL/DefaultComponent/Arm-cortex/DefaultComponent.mak";
+					- isConfigurationFileHyperLink = 1;
+				}
+				{ IMHyperLink 
+					- _id = GUID 1b9819e7-d359-41ae-bd39-5ab4faff2616;
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Main File";
+					- _linkType = "FREE";
+					- _linkTarget = "C:/Users/HaYeon/IBM/Rational/Rhapsody/7.5.3/Project/PBL/PBL/DefaultComponent/Arm-cortex/MainDefaultComponent";
+					- isConfigurationFileHyperLink = 1;
+				}
+			}
+			- _scopeType = Explicit;
+			- _libraries = "";
+			- _additionalSources = "";
+			- _standardHeaders = "RiC_IdfP.h";
+			- _includePath = "";
+			- _targetMain = "";
+			- _instrumentation = None;
+			- _timeModel = RealTime;
+			- m_generateActors = 1;
+			- _statechartImplementation = Flat;
+			- _initializationCode = "";
+			- _checksList = 0 ;
+			- ScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- InitialInstances = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _root = { IFolder 
+				- _id = GUID 03393a2c-ab23-484a-b243-a3ce4e947e66;
+				- _myState = 8192;
+				- _name = "Arm-cortex";
+				- m_path = "";
+				- Elements = { IRPYRawContainer 
+					- size = 0;
+				}
+				- Files = { IRPYRawContainer 
+					- size = 0;
+				}
+			}
+			- weakCGTime = 6.8.2022::10:16:51;
+			- strongCGTime = 6.8.2022::10:16:51;
+			- AnimScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- m_allInAnimScope = 1;
+		}
+	}
+	- HandlesInMe = { IRPYRawContainer 
+		- size = 4;
+		- value = 
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "Default.sbs";
+			- _subsystem = "";
+			- _class = "";
+			- _name = "Default";
+			- _id = GUID aef46ac5-df52-4596-8209-deeedead1847;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "PBLPkg.sbs";
+			- _subsystem = "";
+			- _class = "";
+			- _name = "PBLPkg";
+			- _id = GUID a1fc12b4-f723-498b-9215-b70ded0349b6;
+		}
+		{ IHandle 
+			- _m2Class = "IProfile";
+			- _filename = "IDFProfile.sbs";
+			- _subsystem = "";
+			- _class = "";
+			- _name = "IDFProfile";
+			- _id = GUID d5ee2130-51e1-4c6c-99cf-62836e1aaf1a;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "Keil.sbs";
+			- _subsystem = "IDFProfile";
+			- _class = "";
+			- _name = "Keil";
+			- _id = GUID 1ec9af25-8e55-4b34-8014-4ecabb5c94db;
+		}
+	}
+	- VariationPoints = { IRPYRawContainer 
+		- size = 0;
+	}
+	- SelectedVariants = { IRPYRawContainer 
+		- size = 0;
+	}
+	- weakCGTime = 6.8.2022::17:22:24;
+	- strongCGTime = 1.2.1990::0:0:0;
+}
+
