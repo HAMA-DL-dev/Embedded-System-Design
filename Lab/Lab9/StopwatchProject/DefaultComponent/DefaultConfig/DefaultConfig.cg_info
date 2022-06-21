@@ -1,0 +1,61 @@
+I-Logix-RPY-Archive version 8.5.2 * 2030848
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 8;
+	- value = "DefaultComponent\\DefaultConfig\\Button.cpp" 5.25.2022::18:14:36
+	"DefaultComponent\\DefaultConfig\\Button.h" 5.25.2022::18:14:36
+	"DefaultComponent\\DefaultConfig\\Display.cpp" 5.25.2022::18:14:36
+	"DefaultComponent\\DefaultConfig\\Display.h" 5.25.2022::18:14:36
+	"DefaultComponent\\DefaultConfig\\StopwatchPkg.cpp" 5.25.2022::18:14:36
+	"DefaultComponent\\DefaultConfig\\StopwatchPkg.h" 5.25.2022::18:14:36
+	"DefaultComponent\\DefaultConfig\\Timer.cpp" 5.25.2022::18:14:36
+	"DefaultComponent\\DefaultConfig\\Timer.h" 5.25.2022::18:14:36
+	
+}
+- size = 5;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = "DefaultComponent.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "DefaultComponent\\DefaultConfig";
+	- _id = GUID 35a334db-6206-4895-8868-019120634a23;
+}
+- genTime = 5.25.2022::18:14:36;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "StopwatchPkg.sbs";
+	- _subsystem = "StopwatchPkg";
+	- _class = "TopLevel";
+	- _name = "Display";
+	- _id = GUID b483d1bc-b74c-46d0-8fb9-39288f5b3ba6;
+}
+- genTime = 5.25.2022::18:14:36;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "StopwatchPkg.sbs";
+	- _subsystem = "StopwatchPkg";
+	- _class = "TopLevel";
+	- _name = "Timer";
+	- _id = GUID 90bd725d-d685-4ee6-9cb8-a407f680653a;
+}
+- genTime = 5.25.2022::18:14:36;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "StopwatchPkg.sbs";
+	- _subsystem = "StopwatchPkg";
+	- _class = "TopLevel";
+	- _name = "Button";
+	- _id = GUID 4aa73521-b227-4e27-868c-770d10b30a00;
+}
+- genTime = 5.25.2022::18:14:36;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "StopwatchPkg.sbs";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "StopwatchPkg";
+	- _id = GUID 9991d12e-7fb5-4c7c-9885-0036e4c38d0b;
+}
+- genTime = 5.25.2022::18:14:36;
+

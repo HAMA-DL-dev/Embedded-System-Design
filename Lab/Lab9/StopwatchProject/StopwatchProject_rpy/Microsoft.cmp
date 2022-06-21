@@ -1,0 +1,116 @@
+I-Logix-RPY-Archive version 8.5.2 C 2030848
+{ IComponent 
+	- _id = GUID ce8ebe8a-4e7f-49a9-96f9-3f496669580c;
+	- _myState = 8192;
+	- _name = "Microsoft";
+	- _lastID = 1;
+	- m_buildType = Executable;
+	- m_libraries = "";
+	- m_additionalSources = "";
+	- m_standardHeaders = "";
+	- m_includePath = "";
+	- m_initializationCode = "";
+	- m_folder = { IFolder 
+		- _id = GUID ad287361-efd5-417f-a59d-f99a48fab69c;
+		- _myState = 73728;
+		- _name = "Files";
+		- m_path = "";
+		- Elements = { IRPYRawContainer 
+			- size = 1;
+			- value = 
+			{ IHandle 
+				- _m2Class = "ISubsystem";
+				- _filename = "StopwatchPkg.sbs";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "StopwatchPkg";
+				- _id = GUID d8c8a7f9-37ca-4336-b611-adc9ad557d7e;
+			}
+		}
+		- Files = { IRPYRawContainer 
+			- size = 0;
+		}
+	}
+	- m_configActive = { ICodeGenConfigInfoHandle 
+		- _m2Class = "ICodeGenConfigInfo";
+		- _id = GUID 851ec95e-b8db-42e8-a808-a1a17485a359;
+	}
+	- Configs = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ ICodeGenConfigInfo 
+			- _id = GUID 851ec95e-b8db-42e8-a808-a1a17485a359;
+			- _myState = 8192;
+			- _name = "DefaultConfig";
+			- HyperLinks = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IMHyperLink 
+					- _id = GUID 745d0f8f-af60-46fa-a6c6-248bd6cd470d;
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Makefile";
+					- _linkType = "FREE";
+					- _linkTarget = "C:\\Users\\HaYeon\\IBM\\Rational\\Rhapsody\\7.5.3\\Project\\StopwatchProject\\Microsoft\\DefaultConfig\\Microsoft.mak";
+					- isConfigurationFileHyperLink = 1;
+				}
+				{ IMHyperLink 
+					- _id = GUID 03bcc72b-1d82-4509-ad11-4daaa754ea72;
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Main File";
+					- _linkType = "FREE";
+					- _linkTarget = "C:\\Users\\HaYeon\\IBM\\Rational\\Rhapsody\\7.5.3\\Project\\StopwatchProject\\Microsoft\\DefaultConfig\\MainMicrosoft";
+					- isConfigurationFileHyperLink = 1;
+				}
+			}
+			- _scopeType = Explicit;
+			- _libraries = "";
+			- _additionalSources = "";
+			- _standardHeaders = "stdio.h";
+			- _includePath = "";
+			- _targetMain = "";
+			- _instrumentation = None;
+			- _timeModel = RealTime;
+			- m_generateActors = 1;
+			- _statechartImplementation = Flat;
+			- _initializationCode = "";
+			- _checksList = 0 ;
+			- ScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- InitialInstances = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _root = { IFolder 
+				- _id = GUID 4ec8d0e9-1aee-469a-947f-f174ae6b4a45;
+				- _myState = 8192;
+				- _name = "DefaultConfig";
+				- m_path = "";
+				- Elements = { IRPYRawContainer 
+					- size = 0;
+				}
+				- Files = { IRPYRawContainer 
+					- size = 0;
+				}
+			}
+			- weakCGTime = 5.25.2022::18:22:45;
+			- strongCGTime = 5.25.2022::18:22:45;
+			- AnimScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- m_allInAnimScope = 1;
+		}
+	}
+	- VariationPoints = { IRPYRawContainer 
+		- size = 0;
+	}
+	- SelectedVariants = { IRPYRawContainer 
+		- size = 0;
+	}
+	- weakCGTime = 6.8.2022::8:35:5;
+	- strongCGTime = 6.8.2022::8:29:25;
+}
+

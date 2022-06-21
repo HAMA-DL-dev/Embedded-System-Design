@@ -1,0 +1,11 @@
+I-Logix-RPY-Archive version 8.5.2 * 2030848
+
+- filesTable = { IRPYRawContainer 
+	- size = 4;
+	- value = "StopwatchProject.rpy" ""
+	"StopwatchProject_rpy\\Default.sbs" "Default"
+	"StopwatchProject_rpy\\Microsoft.cmp" "Microsoft"
+	"StopwatchProject_rpy\\StopwatchPkg.sbs" "StopwatchPkg"
+	
+}
+
