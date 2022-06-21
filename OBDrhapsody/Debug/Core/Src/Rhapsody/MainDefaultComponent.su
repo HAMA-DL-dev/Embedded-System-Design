@@ -1,3 +1,0 @@
-MainDefaultComponent.c:15:6:DefaultComponent_Init	8	static
-MainDefaultComponent.c:20:6:DefaultComponent_Cleanup	8	static
-MainDefaultComponent.c:24:5:Cortex_main	40	static
