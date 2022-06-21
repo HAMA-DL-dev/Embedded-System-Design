@@ -1,0 +1,1 @@
+cmd_/home/pi/work/gpio/Code/raspy_io.ko := ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/pi/work/gpio/Code/raspy_io.ko /home/pi/work/gpio/Code/raspy_io.o /home/pi/work/gpio/Code/raspy_io.mod.o ;  true
