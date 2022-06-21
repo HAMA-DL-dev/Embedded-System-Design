@@ -1,0 +1,15 @@
+main.c:87:1:__io_putchar	16	static
+main.c:106:6:CANopen	24	static
+main.c:163:6:Init_Timer	8	static
+main.c:174:5:main	8	static
+main.c:226:6:SystemClock_Config	104	static
+main.c:278:13:MX_I2C1_Init	8	static
+main.c:312:13:MX_I2S3_Init	8	static
+main.c:346:13:MX_SPI1_Init	8	static
+main.c:384:13:MX_SPI2_Init	8	static
+main.c:422:13:MX_TIM10_Init	8	static
+main.c:453:13:MX_USART2_UART_Init	8	static
+main.c:486:13:MX_USART3_UART_Init	8	static
+main.c:519:13:MX_GPIO_Init	56	static
+main.c:617:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:630:6:Error_Handler	4	static
