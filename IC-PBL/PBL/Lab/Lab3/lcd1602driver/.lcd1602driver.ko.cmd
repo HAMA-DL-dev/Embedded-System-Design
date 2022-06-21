@@ -1,0 +1,1 @@
+cmd_/home/pi/work/lcd1602driver/lcd1602driver.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/work/lcd1602driver/lcd1602driver.ko /home/pi/work/lcd1602driver/lcd1602driver.o /home/pi/work/lcd1602driver/lcd1602driver.mod.o;  true

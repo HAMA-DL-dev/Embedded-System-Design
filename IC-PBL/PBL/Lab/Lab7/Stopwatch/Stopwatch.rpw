@@ -1,0 +1,174 @@
+I-Logix-RPY-Archive version 8.5.2 * 2030848
+{ CGEMdiWorkspace 
+	- stubList = { IRPYRawContainer 
+		- size = 0;
+	}
+	- myViewsWithID = { IRPYRawContainer 
+		- size = 5;
+		- value = 
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -4;
+				- m_ptMaxPositionY = -23;
+				- m_nLeft = 0;
+				- m_nTop = 0;
+				- m_nRight = 1268;
+				- m_nBottom = 313;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Model1";
+				- _id = GUID c557cfc9-c08d-11ec-b62a-000c296bf5ba;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1240 266 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 4;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -4;
+				- m_ptMaxPositionY = -23;
+				- m_nLeft = 40;
+				- m_nTop = 44;
+				- m_nRight = 1161;
+				- m_nBottom = 357;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStateChartDiagram";
+				- _filename = "StopwatchPkg.sbs";
+				- _subsystem = "StopwatchPkg";
+				- _class = "TopLevel.Button";
+				- _name = "StatechartDiagram";
+				- _id = GUID 6a241043-c08e-11ec-a02a-000c296bf5ba;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1205 448 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 2;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -4;
+				- m_ptMaxPositionY = -23;
+				- m_nLeft = 80;
+				- m_nTop = 88;
+				- m_nRight = 1165;
+				- m_nBottom = 402;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStateChartDiagram";
+				- _filename = "StopwatchPkg.sbs";
+				- _subsystem = "StopwatchPkg";
+				- _class = "TopLevel.PushSwitch";
+				- _name = "StatechartDiagram";
+				- _id = GUID 751f7172-c0f8-11ec-8bf2-000c296bf5ba;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1057 267 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -4;
+				- m_ptMaxPositionY = -23;
+				- m_nLeft = 20;
+				- m_nTop = 22;
+				- m_nRight = 1288;
+				- m_nBottom = 335;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "StopwatchPkg.sbs";
+				- _subsystem = "StopwatchPkg";
+				- _class = "";
+				- _name = "StopwatchOMD";
+				- _id = GUID c557d13c-c08d-11ec-b62a-000c296bf5ba;
+			}
+			- _UpLeft = 0 116 ;
+			- _DownRight = 1265 387 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 3;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = 0;
+				- m_ptMinPositionY = 877;
+				- m_ptMaxPositionX = -4;
+				- m_ptMaxPositionY = -23;
+				- m_nLeft = 60;
+				- m_nTop = 66;
+				- m_nRight = 1181;
+				- m_nBottom = 379;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStateChartDiagram";
+				- _filename = "StopwatchPkg.sbs";
+				- _subsystem = "StopwatchPkg";
+				- _class = "TopLevel.Timer";
+				- _name = "StatechartDiagram";
+				- _id = GUID 4a049531-c090-11ec-a5c8-000c296bf5ba;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1093 266 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 1;
+		}
+	}
+	- _fullName = "/home/hayeon/work/Rhapsody/Stopwatch/Stopwatch";
+	- m_SearchScopeList = { IRPYRawContainer 
+		- size = 0;
+	}
+	- bUsingCustomBrowserView = 0;
+	- bUsingQueries = 0;
+	- bApplyOnDiagrams = 0;
+	- liRhId = { IRPYRawContainer 
+		- size = 0;
+	}
+	- liElementTypes = { IRPYRawContainer 
+		- size = 0;
+	}
+
+	- m_favoritesTree = {
+		count=1;
+		{ - favoritesItem
+			generation = 0;
+			name = Favorites;
+			idOrFolder = folder;
+		}
+	}
+
+}
+

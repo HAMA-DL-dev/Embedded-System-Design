@@ -1,0 +1,202 @@
+I-Logix-RPY-Archive version 8.5.2 * 2030848
+{ CGEMdiWorkspace 
+	- stubList = { IRPYRawContainer 
+		- size = 0;
+	}
+	- myViewsWithID = { IRPYRawContainer 
+		- size = 6;
+		- value = 
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -4;
+				- m_ptMaxPositionY = -23;
+				- m_nLeft = 40;
+				- m_nTop = 44;
+				- m_nRight = 1125;
+				- m_nBottom = 358;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "ButtonPkg.sbs";
+				- _subsystem = "ButtonPkg";
+				- _class = "";
+				- _name = "Button Overview";
+				- _id = GUID 11b5ea72-934e-4045-91ba-11dcb57b10ea;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1057 267 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 1;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 1;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -4;
+				- m_ptMaxPositionY = -23;
+				- m_nLeft = 79;
+				- m_nTop = 87;
+				- m_nRight = 1185;
+				- m_nBottom = 486;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStateChartDiagram";
+				- _filename = "ButtonPkg.sbs";
+				- _subsystem = "ButtonPkg";
+				- _class = "TopLevel.Button";
+				- _name = "StatechartDiagram";
+				- _id = GUID 1b853650-5faf-11e7-a338-0050b654f94b;
+			}
+			- _UpLeft = 0 5 ;
+			- _DownRight = 1056 350 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 3;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -4;
+				- m_ptMaxPositionY = -23;
+				- m_nLeft = 60;
+				- m_nTop = 66;
+				- m_nRight = 1122;
+				- m_nBottom = 251;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStateChartDiagram";
+				- _filename = "ButtonPkg.sbs";
+				- _subsystem = "ButtonPkg";
+				- _class = "TopLevel.Button";
+				- _name = "StatechartDiagram";
+				- _id = GUID 1b853650-5faf-11e7-a338-0050b654f94b;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1202 160 ;
+			- _instanceName = "Button";
+			- m_nDiagramIndex = 2;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -4;
+				- m_ptMaxPositionY = -23;
+				- m_nLeft = 20;
+				- m_nTop = 22;
+				- m_nRight = 1105;
+				- m_nBottom = 336;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStateChartDiagram";
+				- _filename = "ButtonPkg.sbs";
+				- _subsystem = "ButtonPkg";
+				- _class = "TopLevel.Led";
+				- _name = "StatechartDiagram";
+				- _id = GUID 78e8adc0-ed3a-11e7-9538-0050fcbce674;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1057 267 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 1;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -4;
+				- m_ptMaxPositionY = -23;
+				- m_nLeft = 41;
+				- m_nTop = 40;
+				- m_nRight = 877;
+				- m_nBottom = 475;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStateChartDiagram";
+				- _filename = "ButtonPkg.sbs";
+				- _subsystem = "ButtonPkg";
+				- _class = "TopLevel.Led";
+				- _name = "StatechartDiagram";
+				- _id = GUID 78e8adc0-ed3a-11e7-9538-0050fcbce674;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1369 657 ;
+			- _instanceName = "Led";
+			- m_nDiagramIndex = 4;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
+				- m_ptMinPositionX = 0;
+				- m_ptMinPositionY = 858;
+				- m_ptMaxPositionX = -4;
+				- m_ptMaxPositionY = -23;
+				- m_nLeft = 100;
+				- m_nTop = 110;
+				- m_nRight = 819;
+				- m_nBottom = 609;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStateChartDiagram";
+				- _filename = "ButtonPkg.sbs";
+				- _subsystem = "ButtonPkg";
+				- _class = "TopLevel.PushSwitch";
+				- _name = "StatechartDiagram";
+				- _id = GUID d67978b7-ec90-11e7-bc56-0050fcbce674;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1075 400 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 5;
+		}
+	}
+	- _fullName = "/home/hayeon/work/Rhapsody/ButtonProject/ButtonProject";
+	- m_SearchScopeList = { IRPYRawContainer 
+		- size = 0;
+	}
+	- bUsingCustomBrowserView = 0;
+	- bUsingQueries = 0;
+	- bApplyOnDiagrams = 0;
+	- liRhId = { IRPYRawContainer 
+		- size = 0;
+	}
+	- liElementTypes = { IRPYRawContainer 
+		- size = 0;
+	}
+
+	- m_favoritesTree = {
+		count=1;
+		{ - favoritesItem
+			generation = 0;
+			name = Favorites;
+			idOrFolder = folder;
+		}
+	}
+
+}
+

@@ -1,0 +1,146 @@
+I-Logix-RPY-Archive version 8.5.2 * 2030848
+{ CGEMdiWorkspace 
+	- stubList = { IRPYRawContainer 
+		- size = 0;
+	}
+	- myViewsWithID = { IRPYRawContainer 
+		- size = 4;
+		- value = 
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 0;
+				- m_nTop = 0;
+				- m_nRight = 704;
+				- m_nBottom = 278;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStateChartDiagram";
+				- _filename = "PBLPkg.sbs";
+				- _subsystem = "PBLPkg";
+				- _class = "TopLevel.CANtranscevier";
+				- _name = "StatechartDiagram";
+				- _id = GUID 73292d58-8723-4280-a79f-1f357cad398b;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 667 218 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 2;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 26;
+				- m_nTop = 26;
+				- m_nRight = 730;
+				- m_nBottom = 304;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStateChartDiagram";
+				- _filename = "PBLPkg.sbs";
+				- _subsystem = "PBLPkg";
+				- _class = "TopLevel.Monitor";
+				- _name = "StatechartDiagram";
+				- _id = GUID 6a1c0d59-0bda-4a9c-87d7-fd12e5f8bda7;
+			}
+			- _UpLeft = 221 0 ;
+			- _DownRight = 888 218 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 1;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 104;
+				- m_nTop = 104;
+				- m_nRight = 909;
+				- m_nBottom = 351;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "PBLPkg.sbs";
+				- _subsystem = "PBLPkg";
+				- _class = "";
+				- _name = "PLBOMD";
+				- _id = GUID 9f1add9d-d9a1-40e0-95dc-5e3669418fc7;
+			}
+			- _UpLeft = 40 100 ;
+			- _DownRight = 494 665 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 3;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 2;
+				- m_showCmd = 2;
+				- m_ptMinPositionX = 0;
+				- m_ptMinPositionY = 507;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 104;
+				- m_nTop = 104;
+				- m_nRight = 854;
+				- m_nBottom = 416;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStateChartDiagram";
+				- _filename = "PBLPkg.sbs";
+				- _subsystem = "PBLPkg";
+				- _class = "TopLevel.Ubidots";
+				- _name = "StatechartDiagram";
+				- _id = GUID a2a7cbc3-29ee-47cd-b330-bcd576cfa687;
+			}
+			- _UpLeft = 248 0 ;
+			- _DownRight = 666 520 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 0;
+		}
+	}
+	- _fullName = "C:\\Users\\HaYeon\\IBM\\Rational\\Rhapsody\\7.5.3\\Project\\PBL\\PBL\\PBL";
+	- m_SearchScopeList = { IRPYRawContainer 
+		- size = 0;
+	}
+	- bUsingCustomBrowserView = 0;
+	- bUsingQueries = 0;
+	- bApplyOnDiagrams = 0;
+	- liRhId = { IRPYRawContainer 
+		- size = 0;
+	}
+	- liElementTypes = { IRPYRawContainer 
+		- size = 0;
+	}
+
+	- m_favoritesTree = {
+		count=1;
+		{ - favoritesItem
+			generation = 0;
+			name = Favorites;
+			idOrFolder = folder;
+		}
+	}
+
+}
+

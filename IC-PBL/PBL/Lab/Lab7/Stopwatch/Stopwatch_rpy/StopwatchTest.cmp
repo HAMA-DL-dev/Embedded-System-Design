@@ -1,0 +1,219 @@
+I-Logix-RPY-Archive version 8.5.2 C++ 2030848
+{ IComponent 
+	- _id = GUID c557cf7f-c08d-11ec-b62a-000c296bf5ba;
+	- _myState = 8192;
+	- _name = "StopwatchTest";
+	- _lastID = 1;
+	- m_buildType = Executable;
+	- m_libraries = "";
+	- m_additionalSources = "";
+	- m_standardHeaders = "";
+	- m_includePath = "";
+	- m_initializationCode = "";
+	- m_folder = { IFolder 
+		- _id = GUID c557cf80-c08d-11ec-b62a-000c296bf5ba;
+		- _myState = 73728;
+		- _name = "Files";
+		- _lastID = 1;
+		- m_path = "";
+		- Elements = { IRPYRawContainer 
+			- size = 1;
+			- value = 
+			{ IHandle 
+				- _m2Class = "ISubsystem";
+				- _filename = "StopwatchPkg.sbs";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "StopwatchPkg";
+				- _id = GUID c557cfd0-c08d-11ec-b62a-000c296bf5ba;
+			}
+		}
+		- Files = { IRPYRawContainer 
+			- size = 1;
+			- value = 
+			{ IFile 
+				- _id = GUID 1f60df36-c0f7-11ec-9a0e-000c296bf5ba;
+				- _myState = 8192;
+				- _name = "Interface";
+				- m_path = "";
+				- m_type = implFile;
+				- Fragments = { IRPYRawContainer 
+					- size = 0;
+				}
+			}
+		}
+	}
+	- m_configActive = { ICodeGenConfigInfoHandle 
+		- _m2Class = "ICodeGenConfigInfo";
+		- _id = GUID 212eb167-c0be-11ec-8cc2-000c296bf5ba;
+	}
+	- Configs = { IRPYRawContainer 
+		- size = 2;
+		- value = 
+		{ ICodeGenConfigInfo 
+			- _id = GUID c557cf81-c08d-11ec-b62a-000c296bf5ba;
+			- _myState = 8192;
+			- _name = "Linux";
+			- HyperLinks = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IMHyperLink 
+					- _id = GUID 4a04968d-c090-11ec-a5c8-000c296bf5ba;
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Makefile";
+					- _linkType = "FREE";
+					- _linkTarget = "/home/hayeon/work/Rhapsody/Stopwatch/StopwatchTest/DefaultConfig/StopwatchTest.mak";
+					- isConfigurationFileHyperLink = 1;
+				}
+				{ IMHyperLink 
+					- _id = GUID 4a04968e-c090-11ec-a5c8-000c296bf5ba;
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Main File";
+					- _linkType = "FREE";
+					- _linkTarget = "/home/hayeon/work/Rhapsody/Stopwatch/StopwatchTest/DefaultConfig/MainStopwatchTest";
+					- isConfigurationFileHyperLink = 1;
+				}
+			}
+			- _scopeType = Explicit;
+			- _libraries = "";
+			- _additionalSources = "";
+			- _standardHeaders = "";
+			- _includePath = "";
+			- _targetMain = "";
+			- _instrumentation = Animation;
+			- _timeModel = RealTime;
+			- m_generateActors = 1;
+			- _statechartImplementation = Flat;
+			- _initializationCode = "";
+			- _checksList = 0 ;
+			- ScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- InitialInstances = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _root = { IFolder 
+				- _id = GUID c557cf82-c08d-11ec-b62a-000c296bf5ba;
+				- _myState = 8192;
+				- _name = "Linux";
+				- m_path = "";
+				- Elements = { IRPYRawContainer 
+					- size = 0;
+				}
+				- Files = { IRPYRawContainer 
+					- size = 0;
+				}
+			}
+			- weakCGTime = 4.20.2022::11:10:46;
+			- strongCGTime = 4.20.2022::11:10:46;
+			- AnimScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- m_allInAnimScope = 1;
+		}
+		{ ICodeGenConfigInfo 
+			- _id = GUID 212eb167-c0be-11ec-8cc2-000c296bf5ba;
+			- _myState = 8192;
+			- _properties = { IPropertyContainer 
+				- Subjects = { IRPYRawContainer 
+					- size = 1;
+					- value = 
+					{ IPropertySubject 
+						- _Name = "CPP_CG";
+						- Metaclasses = { IRPYRawContainer 
+							- size = 1;
+							- value = 
+							{ IPropertyMetaclass 
+								- _Name = "Configuration";
+								- Properties = { IRPYRawContainer 
+									- size = 1;
+									- value = 
+									{ IProperty 
+										- _Name = "Environment";
+										- _Value = "MontaVista";
+										- _Type = Enum;
+										- _ExtraTypeInfo = "Linux,MontaVista,Multi4Linux,INTEGRITY5,Integrity5ESTL";
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+			- _name = "MontaVista";
+			- HyperLinks = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IMHyperLink 
+					- _id = GUID 212eb169-c0be-11ec-8cc2-000c296bf5ba;
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Makefile";
+					- _linkType = "FREE";
+					- _linkTarget = "/home/hayeon/work/Rhapsody/Stopwatch/StopwatchTest/configuration_0/StopwatchTest.mak";
+					- isConfigurationFileHyperLink = 1;
+				}
+				{ IMHyperLink 
+					- _id = GUID 212eb16a-c0be-11ec-8cc2-000c296bf5ba;
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Main File";
+					- _linkType = "FREE";
+					- _linkTarget = "/home/hayeon/work/Rhapsody/Stopwatch/StopwatchTest/configuration_0/MainStopwatchTest";
+					- isConfigurationFileHyperLink = 1;
+				}
+			}
+			- _scopeType = Explicit;
+			- _libraries = "";
+			- _additionalSources = "";
+			- _standardHeaders = "";
+			- _includePath = "";
+			- _targetMain = "";
+			- _instrumentation = None;
+			- _timeModel = RealTime;
+			- m_generateActors = 1;
+			- _statechartImplementation = Flat;
+			- _initializationCode = "";
+			- _checksList = 0 ;
+			- ScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- InitialInstances = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _root = { IFolder 
+				- _id = GUID 212eb168-c0be-11ec-8cc2-000c296bf5ba;
+				- _myState = 8192;
+				- _name = "MontaVista";
+				- m_path = "";
+				- Elements = { IRPYRawContainer 
+					- size = 0;
+				}
+				- Files = { IRPYRawContainer 
+					- size = 0;
+				}
+			}
+			- weakCGTime = 4.20.2022::16:26:29;
+			- strongCGTime = 4.20.2022::16:26:29;
+			- AnimScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- m_allInAnimScope = 1;
+		}
+	}
+	- VariationPoints = { IRPYRawContainer 
+		- size = 0;
+	}
+	- SelectedVariants = { IRPYRawContainer 
+		- size = 0;
+	}
+	- weakCGTime = 4.20.2022::23:14:19;
+	- strongCGTime = 4.20.2022::23:14:1;
+}
+

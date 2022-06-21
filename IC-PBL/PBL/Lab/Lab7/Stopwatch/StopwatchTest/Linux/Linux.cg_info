@@ -1,0 +1,61 @@
+I-Logix-RPY-Archive version 8.5.2 * 2030848
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 8;
+	- value = "StopwatchTest/Linux/Button.cpp" 4.20.2022::11:45:29
+	"StopwatchTest/Linux/Button.h" 4.20.2022::11:45:29
+	"StopwatchTest/Linux/Display.cpp" 4.20.2022::11:45:29
+	"StopwatchTest/Linux/Display.h" 4.20.2022::11:45:29
+	"StopwatchTest/Linux/StopwatchPkg.cpp" 4.20.2022::11:45:29
+	"StopwatchTest/Linux/StopwatchPkg.h" 4.20.2022::11:45:29
+	"StopwatchTest/Linux/Timer.cpp" 4.20.2022::11:45:29
+	"StopwatchTest/Linux/Timer.h" 4.20.2022::11:45:29
+	
+}
+- size = 5;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = "StopwatchTest.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "StopwatchTest/Linux";
+	- _id = GUID c557cf81-c08d-11ec-b62a-000c296bf5ba;
+}
+- genTime = 4.20.2022::21:8:40;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "StopwatchPkg.sbs";
+	- _subsystem = "StopwatchPkg";
+	- _class = "TopLevel";
+	- _name = "Button";
+	- _id = GUID 6a241008-c08e-11ec-a02a-000c296bf5ba;
+}
+- genTime = 4.20.2022::11:45:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "StopwatchPkg.sbs";
+	- _subsystem = "StopwatchPkg";
+	- _class = "TopLevel";
+	- _name = "Timer";
+	- _id = GUID 6a241024-c08e-11ec-a02a-000c296bf5ba;
+}
+- genTime = 4.20.2022::11:45:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "StopwatchPkg.sbs";
+	- _subsystem = "StopwatchPkg";
+	- _class = "TopLevel";
+	- _name = "Display";
+	- _id = GUID 6a24102a-c08e-11ec-a02a-000c296bf5ba;
+}
+- genTime = 4.20.2022::11:45:29;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "StopwatchPkg.sbs";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "StopwatchPkg";
+	- _id = GUID c557cfd0-c08d-11ec-b62a-000c296bf5ba;
+}
+- genTime = 4.20.2022::11:45:29;
+

@@ -1,0 +1,126 @@
+I-Logix-RPY-Archive version 8.5.2 C++ 2030848
+{ IComponent 
+	- _id = GUID 8d0d7e4f-ed39-11e7-8b06-0050fcbce674;
+	- _myState = 139264;
+	- _name = "DefaultComponent";
+	- m_buildType = Executable;
+	- m_libraries = "";
+	- m_additionalSources = "";
+	- m_standardHeaders = "";
+	- m_includePath = "";
+	- m_initializationCode = "";
+	- m_folder = { IFolder 
+		- _id = GUID 8d0d7e50-ed39-11e7-8b06-0050fcbce674;
+		- _myState = 73728;
+		- _name = "Files";
+		- m_path = "";
+		- Elements = { IRPYRawContainer 
+			- size = 0;
+		}
+		- Files = { IRPYRawContainer 
+			- size = 0;
+		}
+	}
+	- m_configActive = { ICodeGenConfigInfoHandle 
+		- _m2Class = "ICodeGenConfigInfo";
+		- _id = GUID 8d0d7e51-ed39-11e7-8b06-0050fcbce674;
+	}
+	- Configs = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ ICodeGenConfigInfo 
+			- _id = GUID 8d0d7e51-ed39-11e7-8b06-0050fcbce674;
+			- _myState = 8192;
+			- _name = "DefaultConfig";
+			- HyperLinks = { IRPYRawContainer 
+				- size = 2;
+				- value = 
+				{ IMHyperLink 
+					- _id = GUID 8d0d7f49-ed39-11e7-8b06-0050fcbce674;
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Makefile";
+					- _linkType = "FREE";
+					- _linkTarget = "/home/control/work/Rhapsody/ButtonProject/DefaultComponent/DefaultConfig/DefaultComponent.mak";
+					- isConfigurationFileHyperLink = 1;
+				}
+				{ IMHyperLink 
+					- _id = GUID 8d0d7f4a-ed39-11e7-8b06-0050fcbce674;
+					- _dependsOn = { INObjectHandle 
+						- _m2Class = "";
+					}
+					- _linkDispName = "Edit Main File";
+					- _linkType = "FREE";
+					- _linkTarget = "/home/control/work/Rhapsody/ButtonProject/DefaultComponent/DefaultConfig/MainDefaultComponent";
+					- isConfigurationFileHyperLink = 1;
+				}
+			}
+			- _scopeType = Explicit;
+			- _libraries = "";
+			- _additionalSources = "";
+			- _standardHeaders = "";
+			- _includePath = "";
+			- _targetMain = "";
+			- _instrumentation = None;
+			- _timeModel = RealTime;
+			- m_generateActors = 1;
+			- _statechartImplementation = Flat;
+			- _initializationCode = "";
+			- _checksList = 0 ;
+			- ScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- InitialInstances = { IRPYRawContainer 
+				- size = 0;
+			}
+			- _root = { IFolder 
+				- _id = GUID 8d0d7e52-ed39-11e7-8b06-0050fcbce674;
+				- _myState = 8192;
+				- _name = "DefaultConfig";
+				- m_path = "";
+				- Elements = { IRPYRawContainer 
+					- size = 0;
+				}
+				- Files = { IRPYRawContainer 
+					- size = 0;
+				}
+			}
+			- weakCGTime = 1.1.1970::9:0:0;
+			- strongCGTime = 1.1.1970::9:0:0;
+			- AnimScopeElements = { IRPYRawContainer 
+				- size = 0;
+			}
+			- m_allInAnimScope = 1;
+		}
+	}
+	- HandlesInMe = { IRPYRawContainer 
+		- size = 2;
+		- value = 
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "Default.sbs";
+			- _subsystem = "";
+			- _class = "";
+			- _name = "Default";
+			- _id = GUID 8d0d7e45-ed39-11e7-8b06-0050fcbce674;
+		}
+		{ IHandle 
+			- _m2Class = "ISubsystem";
+			- _filename = "ButtonPkg.sbs";
+			- _subsystem = "";
+			- _class = "";
+			- _name = "ButtonPkg";
+			- _id = GUID 6c9b8151-f5d3-4ed2-86dd-21eb01f03609;
+		}
+	}
+	- VariationPoints = { IRPYRawContainer 
+		- size = 0;
+	}
+	- SelectedVariants = { IRPYRawContainer 
+		- size = 0;
+	}
+	- weakCGTime = 12.30.2017::8:16:26;
+	- strongCGTime = 1.1.1970::9:0:0;
+}
+
