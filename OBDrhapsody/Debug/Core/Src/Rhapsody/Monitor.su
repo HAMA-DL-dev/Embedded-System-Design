@@ -1,0 +1,10 @@
+Monitor.c:43:6:Monitor_Init	16	static
+Monitor.c:56:6:Monitor_Cleanup	16	static
+Monitor.c:62:13:display	32	static
+Monitor.c:70:19:Monitor_getItsUbidots	16	static
+Monitor.c:74:6:Monitor_setItsUbidots	16	static
+Monitor.c:78:12:Monitor_startBehavior	24	static
+Monitor.c:84:13:initStatechart	16	static
+Monitor.c:89:13:cleanUpRelations	16	static
+Monitor.c:96:13:rootState_entDef	24	static
+Monitor.c:105:27:rootState_dispatchEvent	32	static
