@@ -24,9 +24,9 @@ my notion page : [Embedded System Design](https://www.notion.so/Embedded-System-
 ```
 ## Prerequisites
 - VMware with Ubuntu 20.04.4 LTS
-- raspberry Pi 4
+- Raspberry Pi 4
 - SmarTTY
+- STM32F4 Discovery Board
+
 ## Description
-See the `README.md` file for each project for more information.
-<br>
-~~물론 나중에 할거임 ㅋㅋㅎㅎㅈㅅ! 일단 자러감!~~
+See the notion page for each project for more information.
